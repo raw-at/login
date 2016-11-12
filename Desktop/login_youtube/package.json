@@ -1,0 +1,23 @@
+{
+  "name": "login_youtube",
+  "version": "1.0.0",
+  "description": "'OAuth Login page'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raw-at/login.git"
+  },
+  "author": "'Abhinav Rawat'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raw-at/login/issues"
+  },
+  "homepage": "https://github.com/raw-at/login#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
